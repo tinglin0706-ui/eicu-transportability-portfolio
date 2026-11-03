@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+results/
+demo_output/
+*.joblib
+*.pickle
+*.parquet
+*.npz
+*.csv.gz
