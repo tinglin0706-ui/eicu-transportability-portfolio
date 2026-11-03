@@ -1,0 +1,12 @@
+# Versions used for local synthetic verification with Python 3.10.
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.0
+scikit-learn==1.2.2
+sparse==0.17.0
+xgboost==3.2.0
+pyarrow==25.0.1
+matplotlib==3.7.0
+joblib==1.1.1
+numba==0.56.4
+tqdm==4.64.1
