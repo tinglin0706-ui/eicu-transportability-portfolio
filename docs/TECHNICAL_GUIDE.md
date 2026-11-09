@@ -50,3 +50,7 @@ Computing `d(i)` and `s(i)` for an individual target patient does not require th
 The correlation script computes Pearson and Spearman associations across target hospitals. Its BH adjustment groups Spearman tests by reference, aggregation, and performance metric, correcting across score metrics within each family. This is not a global correction across every exploratory analysis. The inferential sample size is the number of target hospitals, not the number of patients or patient pairs. Correlations from a single source hospital do not demonstrate generalization across source hospitals.
 
 The retained figure script displays class-balanced absolute lean and separate target-decedent and target-survivor summaries against whole-hospital AUPRC drop. Clinical findings and interpretation belong to the accompanying poster; no historical research estimates are reproduced in this package.
+
+## AI assistance and author responsibility
+
+AI coding assistants were used during implementation. I designed the analysis, reviewed the code, and verified the outputs.

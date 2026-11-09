@@ -60,6 +60,12 @@ docs/               Methods, reproduction, and verification
 
 Historical model comparisons, backups, cluster-specific job files, and notebooks with stored research outputs are omitted. Scripts retain their original stage-based organization to make the research workflow easy to follow.
 
+## AI assistance and author responsibility
+
+AI coding assistants were used during implementation. I designed the analysis, reviewed the code, and verified the outputs.
+
+See the [verification record](docs/VERIFICATION.md) for the scope of the software checks.
+
 ## Attribution and scope
 
 FIDDLE is external software by Tang and colleagues. The extraction and population workflow adapts the associated eICU experiment code. See [third-party attribution](THIRD_PARTY_NOTICES.md) for the paper and source repositories.

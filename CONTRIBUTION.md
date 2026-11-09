@@ -12,6 +12,8 @@
 
 I was responsible for the project-specific code implementation and integration. My work connected cohort construction, clinical data preparation, and FIDDLE inputs with XGBoost cross-validation and external evaluation. I implemented the project-specific SVD and cosine-similarity analyses, hospital-level summaries, statistical analyses, and figure-generation code. I also carried out the analyses used to develop the poster.
 
+AI coding assistants were used during implementation. I designed the analysis, reviewed the code, and verified the outputs.
+
 ## Poster writing and presentation
 
 I wrote the poster text and prepared its figures and layout. Keith Feldman, PhD, provided research supervision, discussed the study design and interpretation with me, and suggested revisions to the poster. I was responsible for incorporating the feedback and preparing the revised poster.
